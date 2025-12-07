@@ -1,0 +1,5 @@
+{
+  "name": "Road to Sylow",
+  "description": "An interactive scrollytelling exploration of Group Theory, from Lagrange's resolvents to the Sylow Theorems.",
+  "requestFramePermissions": []
+}
